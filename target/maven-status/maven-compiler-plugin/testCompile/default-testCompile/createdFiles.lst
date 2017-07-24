@@ -1,0 +1,7 @@
+com\Booking\Project\logging\EventHandler.class
+com\Booking\Project\Tests.class
+com\Booking\Project\logging\CustomReporter.class
+com\Booking\Project\pages\SearchResultsPage.class
+com\Booking\Project\WebDriver\BaseScript.class
+com\Booking\Project\pages\SignInForm.class
+com\Booking\Project\pages\HomePage.class
