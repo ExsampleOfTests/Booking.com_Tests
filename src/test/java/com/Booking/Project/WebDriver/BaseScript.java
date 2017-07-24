@@ -21,12 +21,15 @@ public abstract class BaseScript {
 
         switch (browser) {
             // TODO prepare required WebDriver instance according to browser type
+
+            /*
             case "opera" :
                 System.setProperty("webdriver.opera.driver", "C:\\Test2\\TechnicalTestOfBookingComSite\\src\\main\\resources\\operadriver.exe");
                 return new OperaDriver();
             case "edge":
                 System.setProperty("webdriver.ie.driver", "C:\\Test2\\TechnicalTestOfBookingComSite\\src\\main\\resources\\IEDriverServer.exe");
                 return new InternetExplorerDriver();
+            */
             case "chrome":
             default:
                 System.setProperty(

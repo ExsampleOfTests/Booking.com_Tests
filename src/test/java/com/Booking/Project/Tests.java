@@ -32,7 +32,7 @@ public class Tests {
 
     @DataProvider (name = "Cities")
     public Object[][] setCities() {
-        return new Object[][] { { "New York" }, { "Kiev" }, { "Warsaw" }, { "Berlin" }};
+        return new Object[][] { { "New York" }, { "Kiev" }, { "Warsaw" }, };
     }
 
     @Test (dataProvider = "Cities", priority = 1)
