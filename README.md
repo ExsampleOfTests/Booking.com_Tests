@@ -1,5 +1,5 @@
 # Booking.com_Tests
-The project is built on: IntelliJ IDE + maven + JDK8 + Selenium + TestNG
+The project is built using: IntelliJ IDE + maven + JDK8 + Selenium + TestNG
 
 To run this project, you must have:
 1. Development environment (IDE Intellij)
